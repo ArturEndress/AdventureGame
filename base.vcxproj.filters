@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Jogo.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Personagem.cpp">
+      <Filter>Personagens</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventario.cpp">
+      <Filter>Invent</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Invent</Filter>
+    </ClCompile>
+    <ClCompile Include="Inimigo.cpp">
+      <Filter>Inimigos</Filter>
+    </ClCompile>
+    <ClCompile Include="Efeito.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="PKnight.cpp">
+      <Filter>Personagens</Filter>
+    </ClCompile>
+    <ClCompile Include="PSkeleton.cpp">
+      <Filter>Personagens</Filter>
+    </ClCompile>
+    <ClCompile Include="PArcher.cpp">
+      <Filter>Personagens</Filter>
+    </ClCompile>
+    <ClCompile Include="Tela.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaCreditos.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaJogo.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaMenu.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaRanking.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="Sala.cpp">
+      <Filter>Salas</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaSelecaoChar.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaContinuar.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+    <ClCompile Include="IniAranha.cpp">
+      <Filter>Inimigos</Filter>
+    </ClCompile>
+    <ClCompile Include="IniBat.cpp">
+      <Filter>Inimigos</Filter>
+    </ClCompile>
+    <ClCompile Include="IniGrue.cpp">
+      <Filter>Inimigos</Filter>
+    </ClCompile>
+    <ClCompile Include="TelaFim.cpp">
+      <Filter>Telas</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Jogo.h" />
+    <ClInclude Include="Personagem.h">
+      <Filter>Personagens</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventario.h">
+      <Filter>Invent</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Invent</Filter>
+    </ClInclude>
+    <ClInclude Include="Inimigo.h">
+      <Filter>Inimigos</Filter>
+    </ClInclude>
+    <ClInclude Include="Efeito.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="PKnight.h">
+      <Filter>Personagens</Filter>
+    </ClInclude>
+    <ClInclude Include="PSkeleton.h">
+      <Filter>Personagens</Filter>
+    </ClInclude>
+    <ClInclude Include="PArcher.h">
+      <Filter>Personagens</Filter>
+    </ClInclude>
+    <ClInclude Include="Tela.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaCreditos.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaJogo.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaMenu.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaRanking.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="Sala.h">
+      <Filter>Salas</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaSelecaoChar.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaContinuar.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+    <ClInclude Include="IniAranha.h">
+      <Filter>Inimigos</Filter>
+    </ClInclude>
+    <ClInclude Include="IniBat.h">
+      <Filter>Inimigos</Filter>
+    </ClInclude>
+    <ClInclude Include="IniGrue.h">
+      <Filter>Inimigos</Filter>
+    </ClInclude>
+    <ClInclude Include="TelaFim.h">
+      <Filter>Telas</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="bin\itens.txt">
+      <Filter>Invent</Filter>
+    </Text>
+    <Text Include="bin\Inimigos.txt">
+      <Filter>Inimigos</Filter>
+    </Text>
+    <Text Include="bin\save.txt" />
+    <Text Include="bin\salas\sala1.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala2.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala3.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala4.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala5.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala6.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala7.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala8.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala9.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala10.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala11.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala12.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala13.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala14.txt">
+      <Filter>Salas</Filter>
+    </Text>
+    <Text Include="bin\salas\sala15.txt">
+      <Filter>Salas</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Personagens">
+      <UniqueIdentifier>{1c498d96-849f-4a6b-8806-2efa81344e76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Invent">
+      <UniqueIdentifier>{2707927a-d9bf-44a4-946d-da3d19d85f30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Inimigos">
+      <UniqueIdentifier>{133a2df0-6180-4597-abbe-9614ba67b1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{4d7f46f4-c2e8-4ed8-a599-fb78d4ada537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Telas">
+      <UniqueIdentifier>{d8d40287-d7a5-44dd-8fa1-095fb0408590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Salas">
+      <UniqueIdentifier>{80866f69-1c72-4244-82b9-e0d55f96501a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
