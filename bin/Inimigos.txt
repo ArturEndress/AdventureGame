@@ -1,0 +1,5 @@
+3
+
+0 sprMorcego sprites/bat.png 4 8 Morcego 3 1
+1 sprGrue sprites/grue.png 4 8 Grue 5 2
+2 sprAranha sprites/spider.png 4 8 Aranha 8 3

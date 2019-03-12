@@ -1,0 +1,25 @@
+tileset:
+Leonardo Pabin (modificado)
+
+audio:
+Spells 3 e 4 by Bart K 
+Windy sound 1 by Arthur
+
+fonte: 
+Manbow - Lines, Solid e 
+
+personagens:
+LPC Generator
+Redshrike and William Thompsonj
+Bagzie
+Kadowaka and Chalkdust
+
+fundo menu:
+Billy Lam
+
+programação:
+Artur Oliveira e Clara Leite
+
+
+
+
